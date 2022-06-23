@@ -1,7 +1,7 @@
 - 👋 Olá! Tudo bem? Meu nome é David Ramos
 - 👀 I’m interested in  estudar e adquirir conhecimentos para área de Tecnologia, pois no momento, estou em transição de carreira.
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning  e fazendo um Bootcamp pela DIO.
+- 💞️ I’m looking to collaborate  e   aprimorar, para que eu possa conseguir uma recolocação profissional.
 - 📫 How to reach me , através do e-mail: drbarros78@gmail.com ou pelo Linkedin:  https://www.linkedin.com/in/david-ramos-1392ab32/
 
 <!---
